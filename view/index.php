@@ -1,0 +1,6 @@
+<?= $header ?>
+
+
+<?= $main_content ?>
+
+<?= $footer ?>
